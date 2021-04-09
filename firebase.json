@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "the-game-shop-upek",
     "public": "build",
     "ignore": [
       "firebase.json",
