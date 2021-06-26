@@ -4,6 +4,6 @@ const firebaseConfig = {
   projectId: "upex-city-travellers",
   storageBucket: "upex-city-travellers.appspot.com",
   messagingSenderId: "770397916402",
-  appId: "1:770397916402:web:9a273c5259bc2b7dbe546b"
+  appId: "1:770397916402:web:73ae230363e5b2c0be546b"
 };
 export default firebaseConfig;

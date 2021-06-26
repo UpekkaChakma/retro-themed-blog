@@ -6,9 +6,8 @@
     background: linear-gradient(to right, #0062E6, #33AEFF);
   }
   
-  body {
-    font-family: sans-serif;
-    font-weight: 700;
+  
+  .roboto{
 
   }
   
@@ -39,6 +38,9 @@
     font-weight: bold;
     padding: 1rem;
     transition: all 0.2s;
+  }
+  .form-signin2:hover {
+    color: white;
   }
   
   .form-label-group {
